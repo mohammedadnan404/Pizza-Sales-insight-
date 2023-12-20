@@ -36,6 +36,10 @@ d) Orders peaked at noon 12 - 1 and less orders at morning 9 - 10
 
 e) July month has done most number of sales while october has least
 
+f) The best selling pizza was Thai chicken pizza while the worst pizza was spinach pesto pizza
+
+g) There is no seasonality in sales round the year the orders were pretty much similar with neglible difference.
+
 Insights:
 
 a) From the analysis customers do not prefer pizza on morning 9-10. So you could add breakfast options to up the sales during that time
