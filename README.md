@@ -1,6 +1,7 @@
 # pizza sales insight
 
 In this project i analysed sales data for a pizza company for one year. The dataset were taken from https://www.mavenanalytics.io/blog/maven-pizza-challenge. The goal of this project is to create a dashboard with an intent to answer these questions:
+
 a) What days and times do we tend to be most engrossed?
 b) How many customers do we have each day? Are there any peak hours?
 c) How many orders are we expecting each day?
@@ -15,6 +16,7 @@ Data organization:
 
 Analysis:
       You could use my dashboard file to get visual. These are my conclusions from this analysis
+
 a) Classic and Supreme pizza category has the most sales while Chicken and Veggie category is least
 b) Large pizza size has done most sales while xl and xxl done very neglible sales
 c) Fridays has peak orders while sundays are relatively quieter
@@ -22,6 +24,7 @@ d) Orders peaked at noon 12 - 1 and less orders at morning 9 - 10
 e) July month has done most number of sales while october has least
 
 Insights:
+
 a) From the analysis customers do not prefer pizza on morning 9-10. So you could add breakfast options to up the sales during that time
 b) While order numbers in sundays are concerning. So you could give discounts on that day 
 
