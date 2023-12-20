@@ -19,7 +19,6 @@ g) Can we identify any seasonality in the sales?
 h) Are there any pizzas we should take off the menu, or any promotions we could leverage?
 
 Data organization:
-
             Dataset contains 4 tables in csv format. I went through it and search for duplicates, any null fields in excel and cleaned it. Then created tables and established relationships between them using popsql with a well defined schema. While feeding data into my table i encountered issues with one table and found out issue was with delimiter of one particular column and resolved it with python. 
 
 The link to my database schema is https://popsql.com/queries/-NlSc5LnqMfZBoVmtJlL/restaurant-sql?access_token=5e51842d4546670948b495125b7faadb
